@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Cronometro from '../components/Cronometro';
-import Formulario from '../components/Formulario';
-import Lista from '../components/Lista';
-import { ITarefa } from '../types/tarefa';
+import Cronometro from '../componentes/Cronometro';
+import Formulario from '../componentes/Formulario';
+import Lista from '../componentes/Lista';
+import ITarefa from '../types/tarefa';
 import style from './App.module.scss';
 
 function App() {
